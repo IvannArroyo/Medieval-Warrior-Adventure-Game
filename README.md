@@ -1,1 +1,1 @@
-# Medieval-Warrior-Adventure-Game
+This is an interactive adventure game allowing players to traverse rooms using directional inputs (North, East, South, West) while collecting essential items. Once all items are collected, you may traverse into the boss room in which you either defeat or lose to Kratz (the boss). This project was developed during my first coding course at SNHU, and earned me a grade of an A, passing the class with an A. 
